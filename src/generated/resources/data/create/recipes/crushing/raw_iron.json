@@ -10,6 +10,10 @@
       "item": "create:crushed_iron_ore"
     },
     {
+      "item": "create:crushed_iron_ore",
+      "chance": 0.75
+    },
+    {
       "item": "create:experience_nugget",
       "chance": 0.75
     }
